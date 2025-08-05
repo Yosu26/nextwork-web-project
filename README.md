@@ -1,0 +1,1 @@
+# This is the Day Two of the 7 Day DevOps Challenge from nextwork.
